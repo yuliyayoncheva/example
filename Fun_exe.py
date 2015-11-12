@@ -1,7 +1,4 @@
-
-# coding: utf-8
-
-# In[1]:
+#Example Script
 
 def divisibility(number):
     if number % 15 == 0:
